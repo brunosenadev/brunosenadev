@@ -39,10 +39,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/brun0cesardev" target="_blank">
+  <a href="https://www.linkedin.com/in/brun0cesardev" target="/_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/brun0cesarsena" target="_blank">
+  <a href="https://www.facebook.com/brun0cesarsena" target="/_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" />
   </a>
 </div>
