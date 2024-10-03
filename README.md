@@ -39,7 +39,7 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="https://www.linkedin.com/in/brun0cesardev" />
+  <img src="(https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)[https://www.linkedin.com/in/brun0cesardev]" width="52" height="40" alt="https://www.linkedin.com/in/brun0cesardev" />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="https://www.facebook.com/brun0cesarsena" />
 </div>
 
