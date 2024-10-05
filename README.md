@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Bruno César, tenho 24 anos, sou de Indaial-SC e atualmente trabalho como desenvolvedor fullstack.</p>
+<p align="left">Me chamo Bruno César de Sena, tenho 24 anos, sou de Indaial-SC e atualmente trabalho como desenvolvedor fullstack.</p>
 
 ###
 
